@@ -1,4 +1,4 @@
-**This is the case study: bug injection for Cli-20
+##This is the case study: bug injection for Cli-20
 
 JArgs command-line argument parsing library
 ===========================================
